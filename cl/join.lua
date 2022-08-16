@@ -1,0 +1,1 @@
+SetDiscordRichPresenceAction(0, "Liity discordiin", 'discord.io/VisionRP')
